@@ -1,0 +1,14 @@
+h1, h2 {
+    color:aqua;
+    background-color: antiquewhite;
+}
+
+h3, h4 {
+    color:greenyellow;
+    background-color: bisque;
+}
+
+h5, h6 {
+    color:pink;
+    background-color: tan;
+}
