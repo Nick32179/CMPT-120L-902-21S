@@ -1,0 +1,2 @@
+Instructions:
+In order to run my application you must go to app.py and press the run button (top green arrow in the top right of the screen), after you have done this the code will run in the terminal below it. The link is on the line that says "Running on" and press cmd and click the link. This will promt you to the website that is fairly easy to run after that. You can click on the link you want to see and read it, it will include 2 different types of lists, headers, and paragraphs on these webpages. Have fun!
